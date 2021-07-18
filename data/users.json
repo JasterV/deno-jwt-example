@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Victor",
+        "password": "patata",
+        "role": "Admin",
+        "age": 23
+    },
+    {
+        "id": "2",
+        "name": "Sergi",
+        "role": "User",
+        "password": "sdvdfbfgnb",
+        "age": 45
+    },
+    {
+        "id": "3",
+        "name": "Fran",
+        "role": "User",
+        "password": "hgnhgmngfdd",
+        "age": 13
+    }
+]
