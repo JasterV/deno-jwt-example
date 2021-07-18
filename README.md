@@ -5,7 +5,7 @@ An API Rest built in typescript using Deno to run it
 ## Run
 
 ```
-deno run --allow-read --allow-env --allow-net https://github.com/JasterV/deno-jwt-example/app.js
+deno run --allow-read --allow-env --allow-net app.js
 ```
 
 ### Login flow
